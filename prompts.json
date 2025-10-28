@@ -2,7 +2,7 @@
   {
     "id": 1,
     "category": "studio",
-    "image": "/images/1.jpg",
+    "image": "/prompt-data/images/1.jpg",
     "prompt": "Generate a dramatic studio portrait of a person in a black blazer, seated on a chair against a bold glowing red background. The subject is posed leaning back with their head tilted upward and eyes closed, conveying intense, raw emotion. The black blazer should contrast sharply with the vivid backdrop, with shadows enhancing depth and form. The atmosphere should be cinematic, edgy, and fashion-forward, blending high-end editorial style with a moody, artistic energy. Replicate the original photo precisely, ensuring at least 95% similarity to the subject's real facial features and natural expression. Do not beautify the face; preserve all wrinkles, details, and realistic emotions. The skin should be textured to enhance realism.",
     "tags": [
       "black",
